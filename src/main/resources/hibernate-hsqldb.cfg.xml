@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-configuration PUBLIC
+		"-//Hibernate/Hibernate Configuration DTD 3.0//EN"
+		"http://www.hibernate.org/dtd/hibernate-configuration-3.0.dtd">
+<hibernate-configuration>
+    <session-factory>
+        <property name="hibernate.connection.driver_class">org.hsqldb.jdbcDriver</property>
+        <property name="hibernate.connection.url">jdbc:hsqldb:hibernate_tutorial</property>
+        <property name="hibernate.connection.username">sa</property>
+        
+        
+        <property name="current_session_context_class">thread</property>
+  <!-- Echo all executed SQL to stdout -->
+<!--   <property name="show_sql">true</property> -->
+  
+  <property name="hibernate.enable_lazy_load_no_trans">true</property>
+  <property name="hbm2ddl.auto">update</property>
+		
+		<mapping
+			class="edu.ufp.mestrado.afmiguez.tk.hibernate_tutorial.models.Student" />
+		<mapping
+			class="edu.ufp.mestrado.afmiguez.tk.hibernate_tutorial.models.Person" />
+		<mapping
+			class="edu.ufp.mestrado.afmiguez.tk.hibernate_tutorial.models.Course" />
+		<mapping
+			class="edu.ufp.mestrado.afmiguez.tk.hibernate_tutorial.models.Degree" />
+    </session-factory>
+</hibernate-configuration>

@@ -1,0 +1,331 @@
+16
+Análises Clínicas e Saúde Pública
+24
+Acreditação de Laboratórios (a)
+Bacteriologia
+Bioquímica Clínica I
+Bioquímica Clínica II
+Controlo da Qualidade em Análises Clínicas
+Farmacologia e Toxicologia
+Genética Médica (a)
+Genética Molecular
+Hematologia Clínica I
+Hematologia Clínica II
+Hidrologia e Análises Hidrológicas
+Histologia e Embriologia
+Imuno-Hemoterapia
+Imunologia
+Medicina Legal (a)
+Métodos e Técnicas da Comunicação
+Métodos Instrumentais de Análise
+Micologia
+Parasitologia
+Patologia Clínica
+Química Aplicada
+Radioterapia (a)
+Segurança Alimentar (a)
+Virologia
+Ciências da Nutrição
+27
+Alimentação coletiva, restauração e hotelaria
+Alimentação e nutrição do desenvolvimento
+Alimentação e nutrição humana I
+Alimentação e nutrição humana II
+Avaliação do estado nutricional I
+Bioquímica dos alimentos
+Biotecnologia alimentar e desenvolvimento de 
+Composição nutricional dos alimentos
+Embriologia, histologia e citologia
+Epidemiologia nutricional
+Farmacodinamia
+Fisiopatologia humana
+Gastrotecnia
+Genética médica
+Gramática da comunicação e terminologia médic
+História e antropossociologia da alimentação
+Métodos de avaliação da ingestão alimentar
+Nutrição e desporto
+Nutrição e saúde pública
+Nutrição hospitalar e suporte nutricional
+Patologia e dietoterapia I
+Patologia e dietoterapia II
+Política nutricional
+Qualidade e segurança alimentar
+Química geral e orgânica
+Tecnologia alimentar
+Toxicologia alimentar
+Enfermagem
+18
+Enfermagem cirúrgica I
+Enfermagem cirúrgica II – Ensino clínico
+Enfermagem de intervenção familiar comunitári
+Enfermagem de saúde comunitária I
+Enfermagem de saúde da criança e do jovem I
+Enfermagem de saúde materna I
+Enfermagem de saúde mental e psiquiátrica I
+Enfermagem de saúde mental e psiquiátrica II 
+Enfermagem de urgência e emergência I
+Enfermagem geriátrica I
+Enfermagem médica I
+Epistemologia da enfermagem
+Fundamentos e procedimentos em enfermagem I
+Fundamentos e procedimentos em enfermagem II
+Métodos e técnicas de investigação
+Nutrição e dietética
+Patologia médica e cirúrgica
+Princípios de pedagogia e didática
+Fisioterapia
+13
+Economia e Gestão dos Serviços de Saúde
+Histologia
+Imagiologia Aplicada
+Métodos e Técnicas de Fisioterapia I
+Métodos e Técnicas de Fisioterapia II
+Métodos e Técnicas de Fisioterapia III
+Métodos e Técnicas de Fisioterapia IV
+Métodos e Técnicas de Fisioterapia V
+Métodos e Técnicas de Fisioterapia VI
+Patologia I
+Patologia II
+Patologia III
+Psicomotricidade
+Reabilitação Psicomotora
+13
+Fundamentos da reabilitação
+Introdução à psiquiatria
+Métodos e técnicas de avaliação funcional
+Patologia da linguagem
+Psicomotricidade I
+Psicomotricidade II
+Psicomotricidade III
+Psicopatologia da criança ao senescente
+Psicopedagogia terapêutica
+Psicoterapia
+Reabilitação psicomotora I
+Reabilitação psicomotora II
+Sistemas de educação e educação especial
+Terapêutica da Fala
+14
+Audiologia
+Comunicação Alternativa e Aumentativa
+Comunicação e Linguagem na Criança
+Construção e Validação de Instrumentos
+Fonética e Fonologia
+Linguagem e Comunicação no Adulto
+Métodos e Técnicas de Avaliação e Intervenção
+Neurociências e Neurolinguística
+Otorrinolaringologia Aplicada
+Psicolinguística e Desenvolvimento da Linguag
+Psicopatologia Aplicada
+Psicopedagogia Aplicada
+Teoria da Linguagem e da Comunicação
+Voz, Motricidade Oro-Facial e Deglutição
+Engenharia Informática
+20
+Algoritmos e estruturas de dados I
+Algoritmos e estruturas de dados II
+Análise de sistemas
+Arquitetura de computadores
+Bases de dados
+Eletrónica aplicada
+Engenharia de software
+Hardware e sensores
+Introdução à algoritmia e programação
+Investigação operacional
+Linguagens de programação I
+Linguagens de programação II
+Multimédia I
+Multimédia II
+Redes de computadores I
+Redes de computadores II
+Sistemas de informação
+Sistemas digitais
+Sistemas distribuídos
+Sistemas operativos
+Engenharia Civil
+20
+Betão armado I
+Betão Armado II
+Fiscalização, Coordenação e Controlo de Obras
+Física das construções
+Gestão de empresas e de estaleiros
+Hidráulica I
+Hidráulica II
+Introdução à engenharia da construção civil
+Materiais de construção
+Materiais e técnicas de reabilitação
+Mecânica das estruturas
+Mecânica dos solos
+Patologias e Reabilitação de Construções
+Planeamento do território
+Processos de construção
+Projeto de Especialidades
+Resistência de materiais I
+Resistência de materiais II
+Topografia e fotogrametria
+Vias de Comunicação
+Engenharia do Ambiente
+20
+Avaliação de impactes
+Biologia
+Ecologia
+Energias e meio ambiente
+Epidemiologia geral e ambiental
+Gestão ambiental em unidades de saúde
+Gestão e tratamento de efluentes gasosos
+Gestão e tratamento de resíduos sólidos
+Hidrologia e qualidade das águas
+Introdução à engenharia do ambiente
+Mecânica dos fluidos e hidráulica ambiental
+Métodos instrumentais de análise ambiental
+Microbiologia
+Poluição atmosférica e sonora
+Prevenção e remediação ambiental
+Qualidade ambiental de edifícios
+Química ambiental
+Segurança e higiene do trabalho
+Tecnologias ecológicas
+Tratamento de águas de abastecimento e residuos
+Engenharia e Gestão da Qualidade
+22
+Acreditação de laboratórios
+Avaliação de riscos profissionais
+Certificação de empresas (produtos, serviços 
+Conceção e gestão da formação
+Controlo da qualidade
+Controlo de riscos profissionais
+Custos da qualidade
+Engenharia e projeto da qualidade
+Ergonomia
+Gestão da prevenção
+Gestão das organizações
+Gestão do processo da qualidade
+Higiene do trabalho I
+Higiene do trabalho II
+Legislação e regulamentação de segurança, hig
+Organização de Emergência
+Psicossociologia do trabalho
+Qualidade total
+Responsabilidade social e ética de gestão
+Segurança do trabalho I
+Segurança do trabalho II
+Sistemas da qualidade
+Ciência Política e Relações Internacionais
+18
+Antropologia social e cultural
+Capital humano e competitividade
+Democracia e cidadania
+Diplomacia política e económica
+Direito internacional público
+Economia política
+Espanhol I
+Espanhol II
+Ética e ciência política
+Grandes temas da história e do jornalismo (sé
+Inglês III
+Inglês IV
+Marketing político
+Ordem política e económica internacional: glo
+Política demográfica e movimentos migratórios
+Psicossociologia das organizações
+Teoria do estado e administração
+Teoria e história das relações internacionais
+Ciências da Comunicação
+27
+Comunicação digital e hipermédia
+Comunicação e conteúdos para multimédia
+Design gráfico e comunicação na web
+Documentalismo visual e audiovisual
+Escrita publicitária I
+Escrita publicitária II
+Estética da comunicação
+Estudos de opinião
+Ética, direito e deontologia da comunicação
+Fontes de informação e bibliografia
+Gramática da comunicação I
+Gramática da comunicação II (notícia e crónic
+Gramática da comunicação III (entrevista e re
+Gramática da comunicação IV (editorialismo e 
+Gramática da comunicação V (economia política
+Gramática da Comunicação VI (cultura e ciênci
+Laboratório de rádio
+Laboratório de televisão
+Literatura e outras artes
+Marketing: técnicas e estratégias
+Novos media, inovação e criatividade (blogs, 
+Relações públicas e assessoria de comunicação
+Semiótica da comunicação
+Sistemas de informação e de arquivo
+Teoria e história da comunicação e do jornali
+Teoria e história das relações públicas, da p
+Voz profissional
+Ciências Empresariais
+6
+Economia portuguesa e política europeia
+Estratégia empresarial
+Gestão e contabilidade de stocks
+Gestão financeira I
+Gestão financeira II
+Mercados e produtos financeiros
+Criminologia
+23
+Crime e adições
+Crime: prevenção e reinserção social
+Criminalidade económica
+Criminalidade organizada
+Criminalidade sexual e género
+Criminologia e vitimologia
+Delinquência juvenil
+Direito de família e menores
+Direito penal
+Direito processual penal I
+Direito processual penal II
+História do pensamento criminológico
+Opinião pública e justiça Criminal
+Perícias: medicina legal e toxicologia
+Perspetivas biológicas e psicológicas do crim
+Perspetivas sociológicas do crime
+Políticas criminais e direito internacional
+Psicopatologia e crime
+Psicossociologia do conflito: negociação e me
+Sistemas penitenciários e execução de Penas
+Técnicas de investigação criminal
+Terrorismo e medidas de segurança
+Violência contemporânea e mass-média
+Gestão Comercial e Contabilidade
+6
+Comércio interno e distribuição
+Contabilidade do setor público
+Contabilidade geral III
+Finanças Públicas e Gestão Autárquica
+Gestão financeira
+Investigação e análise de mercados
+Psicologia
+27
+Avaliação psicológica da criança e do adolesc
+Avaliação psicológica do adulto e do senescen
+Estatística aplicada à psicologia
+Ética e deontologia em psicologia
+História e epistemologia da psicologia
+Introdução às ciências sociais
+Métodos de investigação em psicologia
+Modelos e métodos de intervenção psicológica 
+Neuropsicologia
+Psicobiologia e psicofisiologia
+Psicologia clínica e da saúde
+Psicologia cognitiva I: perceção, aprendizage
+Psicologia cognitiva II: linguagem e cognição
+Psicologia da educação
+Psicologia da motivação e das emoções
+Psicologia diferencial e da personalidade
+Psicologia do comportamento desviante
+Psicologia do desenvolvimento da criança e do
+Psicologia do desenvolvimento do adulto e do 
+Psicologia do desporto
+Psicologia do trabalho e das organizações
+Psicologia experimental
+Psicologia jurídica
+Psicologia positiva
+Psicometria
+Psicopatologia da criança e do adolescente
+Psicopatologia do adulto e do senescente
